@@ -1,2 +1,4 @@
 # Web-application-security-Testing-pt.2
 project focused bit more security and tools 
+
+This project focused on performing web application security analysis and vulnerability assessment within a controlled lab environment using Kali Linux and Dockerized OWASP Mutillidae applications. The environment simulated common web application vulnerabilities to better understand attack surfaces, insecure configurations, authentication weaknesses, and HTTP-based security risks. Security tools including Nmap, Nikto, SQLMap, and Wireshark were used to perform network reconnaissance, vulnerability scanning, HTTP traffic inspection, database enumeration, and packet analysis within isolated virtualized environments. Docker containers were used to deploy vulnerable applications for testing and educational purposes, while Linux-based tooling and networking concepts were applied to support security analysis, troubleshooting, and penetration testing workflows.
